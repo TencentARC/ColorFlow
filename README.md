@@ -95,14 +95,11 @@ We are grateful for the valuable resources and insights provided by these projec
 ### 📜 Citation
 
 ```
-@misc{zhuang2024colorflow,
-title={ColorFlow: Retrieval-Augmented Image Sequence Colorization},
-author={Junhao Zhuang and Xuan Ju and Zhaoyang Zhang and Yong Liu and Shiyi Zhang and Chun Yuan and Ying Shan},
-year={2024},
-eprint={2412.11815},
-archivePrefix={arXiv},
-primaryClass={cs.CV},
-url={https://arxiv.org/abs/2412.11815},
+@article{zhuang2024colorflow,
+  title={ColorFlow: Retrieval-Augmented Image Sequence Colorization},
+  author={Zhuang, Junhao and Ju, Xuan and Zhang, Zhaoyang and Liu, Yong and Zhang, Shiyi and Yuan, Chun and Shan, Ying},
+  journal={arXiv preprint arXiv:2412.11815},
+  year={2024}
 }
 ```
 
