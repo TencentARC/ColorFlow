@@ -90,7 +90,7 @@ We are grateful for the valuable resources and insights provided by these projec
 ### 📞 Contact
 
 - **Junhao Zhuang**  
-  Email: [zhuangjh23@mails.tsinghua.edu.cn](mailto:zhuangjh23@mails.tsinghua.edu.cn)
+  Email: [zhuangjh23@tsinghua.org.cn](mailto:zhuangjh23@tsinghua.org.cn)
 
 ### 📜 Citation
 
